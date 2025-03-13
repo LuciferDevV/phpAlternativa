@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Какой язык программирования используется в этом проекте?",
+        "type": "radio",
+        "options": ["Python", "PHP", "Java", "C++"],
+        "correct": ["PHP"]
+    },
+    {
+        "question": "Какие из этих баз данных являются реляционными?",
+        "type": "checkbox",
+        "options": ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
+        "correct": ["MySQL", "PostgreSQL"]
+    },
+    {
+        "question": "Какой HTTP-метод используется для отправки форм?",
+        "type": "radio",
+        "options": ["GET", "POST", "PUT", "DELETE"],
+        "correct": ["POST"]
+    },
+    {
+        "question": "Какие из этих технологий относятся к фронтенду?",
+        "type": "checkbox",
+        "options": ["HTML", "CSS", "PHP", "JavaScript"],
+        "correct": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "question": "Что делает оператор `===` в JavaScript?",
+        "type": "radio",
+        "options": [
+            "Сравнивает только значения",
+            "Сравнивает значения и тип данных",
+            "Присваивает значение переменной",
+            "Используется для объявления переменной"
+        ],
+        "correct": ["Сравнивает значения и тип данных"]
+    }
+]
